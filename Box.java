@@ -1,6 +1,6 @@
 
 //A Box Class for printing boxes of stars with variable length/width dimensions
-//The Class invokes a custom printBox method.
+//The Class invokes overloaded printBox methods.
 
 public class Box {
 	
