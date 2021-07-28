@@ -29,7 +29,6 @@ public class Card {
 	}
 	
 	
-	
 	//Custom Methods Section
 	
 	public void draw() {  //draw method for being dealt a card (suit 1-4, rank 1-13)
@@ -72,7 +71,7 @@ public class Card {
 				 
 		 }
 	 //return statement for toString method
-     return cardRank + cardSuit;
+     	 return cardRank + cardSuit;
 		
 	}
 
